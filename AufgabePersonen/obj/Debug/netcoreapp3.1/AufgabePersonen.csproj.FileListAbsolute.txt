@@ -1,0 +1,13 @@
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\bin\Debug\netcoreapp3.1\AufgabePersonen.exe
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\bin\Debug\netcoreapp3.1\AufgabePersonen.deps.json
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\bin\Debug\netcoreapp3.1\AufgabePersonen.runtimeconfig.json
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\bin\Debug\netcoreapp3.1\AufgabePersonen.runtimeconfig.dev.json
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\bin\Debug\netcoreapp3.1\AufgabePersonen.dll
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\bin\Debug\netcoreapp3.1\AufgabePersonen.pdb
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.AssemblyInfo.cs
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.dll
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.pdb
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.genruntimeconfig.cache
+C:\Users\DCV\source\repos\AufgabePersonen\AufgabePersonen\obj\Debug\netcoreapp3.1\AufgabePersonen.csprojAssemblyReference.cache
